@@ -1,12 +1,12 @@
 {
   "welcome":
   {
-    "txt":"Wesh X top",
+    "txt":"bienvenue p'tit loup bleu",
     "lang":"fr"
   },
   "goodbye":
   {
-    "txt":"Ciao, X top",
+    "txt":"a bientot p'tit loup bleu",
     "lang":"fr"
   }
 }
